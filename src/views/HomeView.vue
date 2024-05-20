@@ -136,9 +136,7 @@ export default {
 
 <style>
 
-.fa-angle-down{
-    
-  }
+
 
 button {
     background-color: white; /* Set the color for the active state */
